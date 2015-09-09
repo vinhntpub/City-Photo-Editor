@@ -1,7 +1,15 @@
 {
   "ads": [
-   
+    {
+      "appName": "Love Frames",
+      "pubName": " CITY PHOTO EDITOR",
+      "icon": "https://lh3.googleusercontent.com/SV6x6eE9RZb7QmbRL5vRa3YhlG6rzHHZOlY6lJUJ6bNJomj0pTpNA7w-3lIUb4IY518=w300",
+      "description": "Create romantic picture for your love with Love Photo Frame",
+      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-01-24_19-13-15_10.jpg",
+      "promotionLink": "https://play.google.com/store/apps/details?id=com.loveframes.photoloveframes",
+      "packageName": "com.loveframes.photoloveframes"
+    }
   ],
-  "promotedPackage": "",
+  "promotedPackage": "com.loveframes.photoloveframes",
   "promotedLink": ""
-}
+}s
