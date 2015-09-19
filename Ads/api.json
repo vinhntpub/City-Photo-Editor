@@ -1,11 +1,20 @@
 {
   "ads": [
     {
+      "appName": "Photo Editor Pro",
+      "pubName": " CITY PHOTO EDITOR",
+      "icon": "https://lh3.googleusercontent.com/CLlYJxBXU8KWdeX4qQasmX-joTks1nXMGeAqcFazXcTkFNgx0ehjxhR9fI9yif2cMsk=w300-rw",
+      "description": "  Make your photos collection into amazing photo collages and video slideshows.",
+      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-01-24_19-13-15_10.jpg",
+      "promotionLink": "https://play.google.com/store/apps/details?id=city.photo.editor.grid.collage",
+      "packageName": "city.photo.editor.grid.collage"
+    },
+    {
       "appName": "Love Frames",
       "pubName": " CITY PHOTO EDITOR",
       "icon": "https://lh3.googleusercontent.com/SV6x6eE9RZb7QmbRL5vRa3YhlG6rzHHZOlY6lJUJ6bNJomj0pTpNA7w-3lIUb4IY518=w300",
       "description": "Create romantic picture for your love with Love Photo Frame",
-      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-01-24_19-13-15_10.jpg",
+      "promotionPhoto": "http://coverpixs.com/images/items/itm_2013-01-30_18-02-59_1.jpg",
       "promotionLink": "https://play.google.com/store/apps/details?id=com.loveframes.photoloveframes",
       "packageName": "com.loveframes.photoloveframes"
     },
@@ -19,6 +28,6 @@
       "packageName": "city.photoframesnatural.natureframes"
     }
   ],
-  "promotedPackage": "com.loveframes.photoloveframes",
+  "promotedPackage": "city.photo.editor.grid.collage",
   "promotedLink": ""
 }
